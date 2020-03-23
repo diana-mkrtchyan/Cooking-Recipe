@@ -1,23 +1,31 @@
-biscuit_recpie = {
-  "time" : "50",
-  "ingrediants" : {
-    "egg" : 3,
+oreoCake_recpie = {
+  "time" : "90",
+  "ingrediants for biscuit" : {
+    "egg" : 6,
     "sugar" : {
-      "sugar" : "2 cup",
-      "alternative" : ["powdered sugar 3 cup" ]
+      "sugar" : "300 gram",
+      "alternative" : ["powdered sugar 400 gram" ]
     },
-    "yogurt" : {
-      "yogurt" : " 1 cup",
-      "alternative" : ["kefir 1,5 cup", "sour cream 1 cup"]
-    },
-    "oil" : "0,5 cup",
+    "cacao" : "50 gram",
+    "oil" : "100 gram",
     "vanila" : "1 pinch",
-    "soda" : {
-      "soda" : "1 teaspoon",
-      "alternative" : "baking powder 1 teaspoon"
+    "baking powder" : {
+      "baking powder" : "10 gram",
+      "alternative" : "soda 10 gram"
     },
-    "flour" : "1 cup"
+    "flour" : "150 gram"
+   },
+   "ingrediants for cream" : {
+     "cream cheese" : {
+       "cream cheese" : "500-600 gram",
+       "alternative" : "cottage cheese 500-600 gram"
+      },
+     "heavy cream" : "500 ml",
+     "powdered sugar" : "150 gram",
+     "oreo cookies" : "20 pieces",
+     "dark chocolate" : "50 gram"
    },
 }
-dataToPrint = biscuit_recpie["ingrediants"]["sugar"]["alternative"]
+
+dataToPrint = oreoCake_recpie["ingrediants for cream"]["cream cheese"]["alternative"]
 print(dataToPrint)
