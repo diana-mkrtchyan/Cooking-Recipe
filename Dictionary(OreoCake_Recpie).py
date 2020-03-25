@@ -42,11 +42,11 @@ oreoCake_recpie = {
   },
   "ingredients for cream" : {
     "cream cheese" : {
-      "portion" : 500 or 600,
+      "portion" : 550,
       "metric" : "grams",
       "alternative" : {
          "name" : "cottage cheese",
-         "portion" : 500 or 600,
+         "portion" : 550,
          "metric" : "grams"
       }
     },
