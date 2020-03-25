@@ -2,7 +2,7 @@ cake_name = [
   "oreoCake",
   "strawberryCake",
   "nickersCake",
-  "caramelCake"
+  "caramelCake",
   "cheeseCake",
   "chocolateCake",
   "lakomkaCake",
