@@ -1,19 +1,25 @@
-cake_type = [
+cake_name = [
   "oreoCake",
+  "strawberryCake",
+  "nickersCake",
+  "caramelCake"
   "cheeseCake",
-  "snickersCake",
-  "caramelCake",
+  "chocolateCake",
+  "lakomkaCake",
+  "limonCake",
 ]
 
-for name in cake_type:
-  print(name)
 
 pricing_list = [ 
-"oreoCake_15000AMD",
-"cheeseCake_13000AMD",
-"snickersCake_16000AMD",
-"caramelCake_10000AMD",
+  "oreoCake_12000AMD",
+  "strawberryCake_11000AMD",
+  "snickersCake_13000AMD",
+  "caramelCake_10000AMD",
+  "cheeseCake_14000AMD",
+  "chocolateCake_9000AMD",
+  "lakomkaCake_8000AMD",
+  "limonCake_7000AMD",
 ]
 
-for price in pricing_list:
-  print(price)
+for prices in pricing_list:
+  print(prices)
