@@ -1,0 +1,59 @@
+[
+  { 
+    "name": "pasta with sous",
+    "time": "20",
+    "products": [ 
+      "1 package pasta",
+      "cheese 300gram",
+      "sour cream 200gram",
+      "aditionally becon 5 pieces" 
+    ] 
+  },
+  { 
+    "name": "vegan salad",
+    "time": "10",
+    "products": [ 
+      "tomato 2",
+      "cucumber 2",
+      "olives 10",
+      "lettuce 30gram" 
+    ] 
+  },
+  { 
+    "name": "rice with vegitable",
+    "time": "20",
+    "products": [ 
+      "rice 200 gram",
+      "pepper 1",
+      "carrot 1",
+      "zucchini 1",
+      "tomato 1",
+      "oil 4 tspun" 
+    ] 
+  },
+  { 
+    "name": "pumpkin cutleti",
+    "time": "20",
+    "products": [ 
+      "pumpkin 3",
+      "flour 4 tspun",
+      "dill 30gram",
+      "parsley 20gram",
+      "oil 5 tspun"
+    ] 
+  },
+  { 
+    "name": "pizza",
+    "time": "15",
+    "products": [ 
+      "dough 1",
+      "cheese 200gram",
+      "tomato 1",
+      "becon 10pieces",
+      "pepper 1" ,
+      "additionally olives 10pieces ",
+      "ketchup 4 tspun"
+    ] 
+  }
+]
+
