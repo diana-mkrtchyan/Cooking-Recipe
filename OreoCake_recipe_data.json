@@ -1,0 +1,26 @@
+{
+  "fruits salad" : {
+    "ingredients" : ["apple", "banana", "kiwi", "figs", "grapes"],
+    "calories" : 200
+  },
+  "pasta with cheese sous" : {
+    "ingredients" : ["spagetti", "mozzarella cheese", "heavy cream"],
+    "calories" : 650
+  },
+  "chicken soup" : {
+    "ingredients" : ["chicken", "spices", "oil"],
+    "calories" : 435
+  },
+  "brownies" : {
+    "ingredients" : ["egg", "sugar", "cacao", "butter", "flour"],
+    "calories" : 625
+  },
+  "grilled salmon" : {
+    "ingredients" : ["salmon fish", "lemon", "soy sauce", "vegetable oil"],
+    "calories" : 350 
+  },
+  "brocoli salad" : {
+    "ingredients" : ["brocoli", "bulgarian pepper", "red onion", "wine vinegar", "mayonnaise"],
+    "calories" : 275
+  }
+}
