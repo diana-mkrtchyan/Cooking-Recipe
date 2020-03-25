@@ -6,7 +6,7 @@ cake_name = [
   "cheeseCake",
   "chocolateCake",
   "lakomkaCake",
-  "limonCake",
+  "limonCake"
 ]
 
 
@@ -18,7 +18,7 @@ pricing_list = [
   "cheeseCake_14000AMD",
   "chocolateCake_9000AMD",
   "lakomkaCake_8000AMD",
-  "limonCake_7000AMD",
+  "limonCake_7000AMD"
 ]
 
 for prices in pricing_list:
